@@ -70,3 +70,14 @@ print "Enter your name: "
 name = gets.chomp()    # with chomp() it does not come with new line.
 
 puts ("Hello " + name + ", you are awesome!")
+
+
+# Commets
+#
+# This is one line comment.
+
+=begin
+  This is
+  multiline
+  comment.
+=end
