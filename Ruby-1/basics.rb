@@ -20,7 +20,7 @@ puts "\n---------------------------------------"
 
 puts "\nLearning \" Ruby"
 
-phrase = "  I am Learning Ruby  "
+phrase = "  I am earning ruby  "
 puts phrase.upcase()
 puts phrase.downcase()
 puts phrase.strip()
@@ -31,6 +31,7 @@ puts phrase[7]
 puts phrase[7, 10]
 puts phrase.index("a")
 puts phrase.index("earn")
+
 
 puts "sentence".upcase()
 
