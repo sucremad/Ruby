@@ -8,5 +8,7 @@
 * :parrot: [Ruby-5](Ruby-5) -- _Files._
 * :parrot: [Ruby-6](Ruby-6) -- _Error Handling._
 * :parrot: [Ruby-7](Ruby-7) -- _Classes and Inheritance._
+* :parrot: [Ruby-8](Ruby-8) -- _Modules._
+
 
 
